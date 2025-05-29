@@ -142,9 +142,6 @@ http://localhost:8080/EmployeeWebApp/
 ### ➕ Add Employee Page
 
 
-### ❌ Delete Employee
-
-
 ### 🆕 Update Employee
 
 
@@ -152,6 +149,9 @@ http://localhost:8080/EmployeeWebApp/
 
 
 ### 🔍 Generate Reports
+
+
+### ❌ Delete Employee
 
 
 ## 🎯 Usage Application
