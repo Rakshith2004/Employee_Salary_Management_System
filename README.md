@@ -142,10 +142,10 @@ http://localhost:8080/EmployeeWebApp/
 ### ➕ Add Employee Page
 
 
-### ❌ Delete Details
+### ❌ Delete Employee
 
 
-### 🆕 Update Details
+### 🆕 Update Employee
 
 
 ### 📋 Display Employee
