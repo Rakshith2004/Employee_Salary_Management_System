@@ -137,7 +137,7 @@ http://localhost:8080/EmployeeWebApp/
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-<img src="Screenshot/Screenshot Home_page.png"alt="home page"width="700"/>
+<img src="Screenshot/Home_page.png"alt="home page"width="700"/>
 
 ### ➕ Add Employee Page
 
