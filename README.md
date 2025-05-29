@@ -140,19 +140,20 @@ http://localhost:8080/EmployeeWebApp/
 <img src="screenshots/Home_page.png" alt="home page" width="700"/>
 
 ### ➕ Add Employee 
-
+<img src="screenshots/Add_employee.png" alt="home page" width="700"/>
 
 ### 🆕 Update Employee
-
+<img src="screenshots/Update_employee.png" alt="home page" width="700"/>
 
 ### 📋 Display Employee
-
+<img src="screenshots/Display_employee.png" alt="home page" width="700"/>
 
 ### 🔍 Generate Reports
+<img src="screenshots/Generate_report.png" alt="home page" width="700"/>
 
 
 ### ❌ Delete Employee
-
+<img src="screenshots/Delete_employee.png" alt="home page" width="700"/>
 
 ## 🎯 Usage Application
 
