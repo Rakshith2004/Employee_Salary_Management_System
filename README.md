@@ -148,7 +148,7 @@ http://localhost:8080/EmployeeWebApp/
 ### ❌ Delete Details
 
 
-###🆕 Update Details
+### 🆕 Update Details
 
 
 ### 📋 Display Employee
