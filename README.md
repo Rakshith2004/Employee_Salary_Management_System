@@ -1,9 +1,13 @@
 # Employee Salary Management System
 
 **Subject Name**: Advanced Java
+
 **Subject Code**: BCS613D
+
 **Name**: Rakshith V Rao
+
 **USN**: 4AL22CS115
+
 **Sem/Section**: VI/B
 
 ---
@@ -14,9 +18,9 @@ A comprehensive web application for managing employee salary records, built with
 - **Complete CRUD Operations**: Add, Update, Delete, and Display employee records.
 - **Advanced Search**: Display employee records based on Empno (primary key).
 - **Comprehensive Reports**: Generate various reports including:
- - Employees whose names start with a specific letter.
- - Employees with N or more years of service.
- - Employees earning more than a specified salary.
+  - Employees whose names start with a specific letter.
+  - Employees with N or more years of service.
+  - Employees earning more than a specified salary.
 - **Input Validation**: Client-side and server-side validation.
 - **Professional UI**: Tailwind CSS-based responsive design.
 - **MVC Architecture**: Clean separation of concerns.
@@ -155,11 +159,11 @@ http://localhost:8080/EmployeeWebApp/
 ### Adding Employee Records
 1.Navigate to "Add Employee" from the main menu.
 2.Fill in all required fields: 
- - Employee Number (unique)
- - Employee Name
- - Date of Joining (YYYY-MM-DD)
- - Gender
- - Basic Salary
+  - Employee Number (unique)
+  - Employee Name
+  - Date of Joining (YYYY-MM-DD)
+  - Gender
+  - Basic Salary
 3.Click "Add Employee".
 
 ### Updating Employee Records
@@ -181,9 +185,9 @@ http://localhost:8080/EmployeeWebApp/
 ### Generating Reports
 1.Go to "Generate Reports".
 2.Select the desired report type from the dropdown:
- - Employees whose names start with a specific letter: Enter the starting letter (e.g., 'A').
- - Employees with N or more years of service: Enter the minimum number of years (e.g., '5').
- - Employees earning more than a specified salary: Enter the minimum salary amount (e.g., '50000').
+  - Employees whose names start with a specific letter: Enter the starting letter (e.g., 'A').
+  - Employees with N or more years of service: Enter the minimum number of years (e.g., '5').
+  - Employees earning more than a specified salary: Enter the minimum salary amount (e.g., '50000').
 3.Click "Generate Report".
 4.View the results displayed in a table.
 
