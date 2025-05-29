@@ -137,7 +137,7 @@ http://localhost:8080/EmployeeWebApp/
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-<img src="Screenshot/Home_page.png"alt="home page"width="700"/>
+<img src="[Screenshot/Home_page.png](https://github.com/Rakshith2004/Employee_Salary_Management_System/blob/main/Screenshot/Screenshot%20Home_page.png)"alt="home page"width="700"/>
 
 ### ➕ Add Employee 
 
