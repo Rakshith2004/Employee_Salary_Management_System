@@ -151,6 +151,9 @@ http://localhost:8080/EmployeeWebApp/
 ### 📋 Display Employee
 
 
+### 🔍 Generate Reports
+
+
 ## 🎯 Usage Application
 
 ### Adding Employee Records
